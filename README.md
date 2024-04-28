@@ -1,4 +1,4 @@
-![image](https://github.com/ACEVeen/cPanel-BruteForcer/assets/136830329/3c3447f8-ab82-45ac-b7eb-057036a83b05)# cPanel-BruteForcer
+# cPanel Brute Force
 
 @author => ACE Veen
 Usage: python3 main.py <URL> <USERNAME> <WORDLIST> <THREADS>
